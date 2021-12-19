@@ -1,0 +1,1 @@
+start ForestST.exe -force-d3d9
